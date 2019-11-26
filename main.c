@@ -1,6 +1,5 @@
-
-#include "palindome.h"
-
+#include "common.h";
+#include "palindrome.h";
 
 
 void main() {
@@ -17,7 +16,11 @@ void main() {
 	//program6_6();
 	//program6_7();
 	//program6_8();
-	program9_1();
+	//program9_1();
+
+	//palindrome.h
+	//str_cmp01();
+	str_cmp03();
 
 }
 
